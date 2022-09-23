@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243317709665",
+    "project_id": "bus-tracking-9ef00",
+    "storage_bucket": "bus-tracking-9ef00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243317709665:android:f50b9c21ff21219bbb0320",
+        "android_client_info": {
+          "package_name": "com.minor.bustracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243317709665-dhcrs70fethtttqo02pv81ih1pr49cvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNZR-7Br8UUaAHU9m5QWPwJ8fn1N3Gkp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243317709665-dhcrs70fethtttqo02pv81ih1pr49cvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
